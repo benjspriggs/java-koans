@@ -3,6 +3,5 @@ pom.xml
 *.iml
 target
 .idea
-app
 file.txt
 SerializeFile
